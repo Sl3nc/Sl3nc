@@ -1,6 +1,5 @@
-<img  align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sl3nc&layout=compact&langs_count=8&theme=algolia"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left"> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -14,4 +13,8 @@
  <a href="https://docs.docker.com/"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/docker.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-
+<p align="center">
+  <h3>Analytics</h3>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sl3nc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sl3nc&layout=compact&langs_count=8&theme=dracula"/>
+</p>
