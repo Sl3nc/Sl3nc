@@ -13,6 +13,10 @@
  <a href="https://docs.docker.com/"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/linux.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-  <h3>Analytics</h3>
+<h3>Analytics</h3>
+<div align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sl3nc&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sl3nc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6883602286548d698afabc92?variant=dark" alt="roadmap.sh"/></a>
+
