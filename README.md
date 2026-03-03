@@ -18,5 +18,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sl3nc&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sl3nc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6883602286548d698afabc92?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6883602286548d698afabc92?variant=dark&roadmaps=html%2Ccss%2Creact%2Cvue" alt="roadmap.sh"/></a>
 
